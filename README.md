@@ -14,6 +14,16 @@ npm install
 npm run dev
 ```
 
+or with Bun:
+
+```bash
+degit mayanring/p5-vite name-of-sketch
+
+cd name-of-sketch
+bun install
+bunx vite
+```
+
 Happy sketching!
 
 ## npm scripts
